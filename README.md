@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GithubHrisabh
 - 👀 I’m a Software Developer Engineer
-- 🌱 I have experience with ReactJs ,NodeJS ,Postman ,Testing and frontend technologies.
 - 💞️ I’m looking to collaborate on projects that would help me improve and brush up my skills and aid me showcase innovation and creativity
 - 📫 How to reach me @kumarrishabh301@gmail.com
 
